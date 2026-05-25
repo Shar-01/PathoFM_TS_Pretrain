@@ -1,0 +1,22 @@
+[project]
+name = "sequence-lab-refactor"
+version = "0.1.0"
+description = "Legacy-compatible modular refactor of an abstract sequence representation pipeline."
+requires-python = ">=3.9"
+dependencies = [
+    "numpy",
+    "pandas",
+    "scikit-learn",
+    "torch",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+
+[project.scripts]
+sequence-lab = "seqcore.cli:main"
