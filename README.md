@@ -209,6 +209,8 @@ below.
 }
 ```
 
+This study was partially funded by the Schweizer Paraplegiker Stiftung (2021-HS-348), within the Digital Transformation in Personalised Healthcare initiative for individuals with spinal cord injury, and the Innosuisse innovation project number: 115.290 IP-ICT.
+
 ---
 
 ## Notes
