@@ -81,7 +81,7 @@ seqcore/
   utils/        device and reproducibility helpers
 ```
 
-Compatibility wrappers remain at the repository root for older local scripts:
+Compatibility wrappers at the repository root:
 
 ```text
 main.py
